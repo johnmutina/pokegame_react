@@ -1,0 +1,14 @@
+.Pokedex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.Pokedex-win {
+    color: green;
+}
+
+.Pokedex-lose {
+    color: red;
+}
